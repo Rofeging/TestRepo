@@ -1,7 +1,7 @@
 public class CircleCalculator {
 
     // Define a public static final constant for Pi
-    public static final double PI = 3.14159;
+    public static double PI = 3.14159;
 
     public static double calculateArea(double radius) {
         return PI * radius * radius;
