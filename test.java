@@ -5,6 +5,7 @@ public class CircleCalculator {
 
     public static String BAD_FIELD = "This should be final";
     public static String BAD_FIELD2 = "This should be final";
+    public static String BAD_FIELD3 = "This should be final";
 
     public static double calculateArea(double radius) {
         return PI * radius * radius;
