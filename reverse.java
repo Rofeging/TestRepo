@@ -35,5 +35,6 @@ public class StringUtils {
         System.out.println(reverseString("Hello"));
         System.out.println(isPalindrome("A man, a plan, a canal: Panama"));
         System.out.println(isPalindrome("Hello"));
+        System.out.println(isPalindrome("Hello"));
     }
 }
